@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://localhost:5000/api', // change if backend is hosted elsewhere
+  baseURL: 'http://localhost:https://kkkkk-sigma.vercel.app//api', // change if backend is hosted elsewhere
   timeout: 10000,
 });
 
