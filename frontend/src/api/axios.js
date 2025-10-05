@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://kkkkk-qay1.onrender.com', // change if backend is hosted elsewhere
+  baseURL: "https://kkkkk-qay1.onrender.com/api",
   timeout: 10000,
 });
 
